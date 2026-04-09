@@ -1,0 +1,33 @@
+{
+  "images" : [
+    {
+      "filename" : "ic_header_arrow_back.pdf",
+      "idiom" : "universal",
+      "language-direction" : "left-to-right"
+    },
+    {
+      "filename" : "ic_header_arrow_backAR.pdf",
+      "idiom" : "universal",
+      "language-direction" : "right-to-left"
+    },
+    {
+      "filename" : "ic_header_arrow_back 1.pdf",
+      "idiom" : "universal",
+      "language-direction" : "left-to-right",
+      "locale" : "ar"
+    },
+    {
+      "filename" : "ic_header_arrow_backAR 1.pdf",
+      "idiom" : "universal",
+      "language-direction" : "right-to-left",
+      "locale" : "ar"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "localizable" : true
+  }
+}

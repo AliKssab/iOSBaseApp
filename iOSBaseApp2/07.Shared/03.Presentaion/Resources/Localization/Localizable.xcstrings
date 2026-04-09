@@ -1,0 +1,30 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+
+    },
+    " " : {
+
+    },
+    "  " : {
+
+    },
+    "%@" : {
+
+    },
+    "Hello, world!" : {
+
+    },
+    "Item %lld" : {
+
+    },
+    "Not selected" : {
+
+    },
+    "Selected" : {
+
+    }
+  },
+  "version" : "1.1"
+}
